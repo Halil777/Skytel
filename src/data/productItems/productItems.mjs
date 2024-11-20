@@ -1,0 +1,32 @@
+export const productItems = [
+  {
+    title: "Platform 4",
+    number: "Q3 2023",
+    attitudeNumber: "500-600 km",
+    type: "Type",
+    unitsAvailable: "9U",
+    timeLaunch: "405d : 03h : 27m",
+    img: "/images/pngwing 3.png",
+    alt: "alt text",
+  },
+  {
+    title: "Platform 5",
+    number: "Q3 2023",
+    attitudeNumber: "500-600 km",
+    type: "Type",
+    unitsAvailable: "9U",
+    timeLaunch: "405d : 03h : 27m",
+    img: "/images/pngwing 1.png",
+    alt: "alt text",
+  },
+  {
+    title: "Platform 6",
+    number: "Q3 2023",
+    attitudeNumber: "500-600 km",
+    type: "Type",
+    unitsAvailable: "7U",
+    timeLaunch: "405d : 03h : 27m",
+    img: "/images/image.png",
+    alt: "alt text",
+  },
+];

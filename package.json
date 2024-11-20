@@ -1,0 +1,62 @@
+{
+  "name": "telecom",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "^5.0.0-alpha.130",
+    "@mui/material": "^5.13.1",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "axios": "^1.4.0",
+    "cra-template": "1.2.0",
+    "fade": "^0.2.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^10.12.16",
+    "i18next": "^22.5.0",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.2.1",
+    "react": "^18.2.0",
+    "react-blurhash": "^0.3.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^1.3.0",
+    "react-i18next": "^12.3.1",
+    "react-lazyload": "^3.2.0",
+    "react-loading": "^2.0.3",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
+    "react-to-print": "^2.14.12",
+    "react-toastify": "^9.1.3",
+    "react-transition-group": "^4.4.5",
+    "styled-components": "^6.0.0-rc.1",
+    "swiper": "^9.3.2",
+    "yup": "^1.1.1"
+  },
+  "scripts": {
+    "start": "SET PORT=7703 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
